@@ -1,4 +1,4 @@
-[0:00:00] null: 
+The home page for this transcript is https://github.com/peterkaminski/transcript-DWeb-Meetup-If-Big-Tech-is-Toxic-how-do-we-build-something-better-2020-09-22
 
 [0:00:00] spk_0: and Facebook's just a place to see what my friends are doing. What they don't realize is there's entire teams of engineers whose job is to use your psychology against you. E was the co inventor of the Facebook like button was the president Pinterest, Google, Twitter and Scream. They were meaningful changes happening around the world because of these platforms. E think we were naive about the flip side of that coin. We get rewarded by parts, likes thumbs up, and we conflate that with value. And we conflated with truth. Ah, whole generation is more anxious, more depressed. I always felt like, fundamentally, it was a force for good. I don't know if I feel that way. Facebook discovered that they were able to affect riel world behavior and emotions without ever triggering the users awareness.
 
